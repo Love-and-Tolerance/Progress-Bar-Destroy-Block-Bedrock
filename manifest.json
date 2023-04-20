@@ -10,9 +10,9 @@
     "name": "Love & Tolerance (Progress Bar Destroy Block)",
     "uuid": "4f02f8d1-08c8-4c0d-94a2-d8e9f4d86ba9",
     "version": [
+      1,
       0,
-      0,
-      1
+      0
     ]
   },
   "modules": [
@@ -21,9 +21,9 @@
       "type": "resources",
       "uuid": "ed9f927a-9bc9-4abe-918a-e8e8c8a54d0e",
       "version": [
+        1,
         0,
-        0,
-        1
+        0
       ]
     }
   ]
